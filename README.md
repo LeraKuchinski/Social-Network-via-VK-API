@@ -25,4 +25,4 @@ The project has the following structure:
 # Community Detection
 
 1. Clique search, k-cores visualization;
-2. Clustering on graph (specteal clustering, agglomiative clustering, label propogation).
+2. Clustering on graph (specteal clustering, agglomirative clustering, label propogation).
